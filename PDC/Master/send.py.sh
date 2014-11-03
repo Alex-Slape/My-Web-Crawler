@@ -1,0 +1,1 @@
+python ../RabbitMQTests/send.py
